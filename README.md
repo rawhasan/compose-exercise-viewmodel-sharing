@@ -3,6 +3,15 @@
 - Providing a **numeric keyboard** for number input.
 - Showing **number format conditionally** based on the floating point digits (0.0 or 0).
 
+## Dependencies
+```
+// Compose Navigation
+implementation "androidx.navigation:navigation-compose:2.4.0-alpha05"
+
+// Compose ViewModel
+implementation "androidx.lifecycle:lifecycle-viewmodel-compose:1.0.0-alpha07"
+```
+
 <br />
 
 Input Screen | Result Screen
